@@ -1,0 +1,32 @@
+{
+  "name": "arproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibenettaleb/ARProject.git"
+  },
+  "keywords": [
+    "ar"
+  ],
+  "author": "Abdeljalil BENETTALEB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibenettaleb/ARProject/issues"
+  },
+  "homepage": "https://github.com/ibenettaleb/ARProject#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.2",
+    "nodemon": "^1.14.11"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1"
+  }
+}
